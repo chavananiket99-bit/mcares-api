@@ -1,0 +1,31 @@
+{
+    "status": "SUCCESS",
+    "message": "Action plan items generated successfully",
+    "data": [
+        {
+            "action_steps": "Conduct a survey to identify employee wellness needs and preferences.",
+            "resources": "Wellness coordinators, HR personnel, and external wellness consultants.",
+            "responsibility": "HR team and wellness program coordinators",
+            "desired_outcome": "Employees will feel more supported in their wellness journeys, leading to increased motivation and performance.",
+            "goals": "Enhance employee wellness programs to promote physical, mental, and emotional fitness. Foster a culture that values holistic well-being in the workplace.",
+            "dueDate": "2026-05-31"
+        },
+        {
+            "action_steps": "Develop and implement wellness initiatives such as fitness classes, mental health days, and stress management workshops.",
+            "resources": "Wellness coordinators, HR personnel, and external wellness consultants.",
+            "responsibility": "HR team and wellness program coordinators",
+            "desired_outcome": "Employees will feel more supported in their wellness journeys, leading to increased motivation and performance.",
+            "goals": "Enhance employee wellness programs to promote physical, mental, and emotional fitness. Foster a culture that values holistic well-being in the workplace.",
+            "dueDate": "2026-05-31"
+        },
+        {
+            "action_steps": "Regularly evaluate the effectiveness of wellness programs and make necessary adjustments based on employee feedback.",
+            "resources": "Wellness coordinators, HR personnel, and external wellness consultants.",
+            "responsibility": "HR team and wellness program coordinators",
+            "desired_outcome": "Employees will feel more supported in their wellness journeys, leading to increased motivation and performance.",
+            "goals": "Enhance employee wellness programs to promote physical, mental, and emotional fitness. Foster a culture that values holistic well-being in the workplace.",
+            "dueDate": "2026-05-31"
+        }
+    ],
+    "statusCode": 200
+}
